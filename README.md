@@ -8,26 +8,26 @@ Final project for the Building AI course
 
 ## Summary
 
-The project is about a bot that can detect inappropriate language and responding with a warning. This can be used in chatbots to detect when a user is using an inappropriate language. Another example of when this can be used can be when inputing text into a specific scenario, such as a bio description of a profile.
+This project aims to create an AI-powered bot that can effectively detect inappropriate language and respond with a warning. The technology can be used in various applications, including chatbots, social media platforms, and other digital interfaces where language can be monitored and censored.
 
 ## Background
 
-This project can solve inappropriate use of language on many platforms, for example on Social Medias where a younger audiences can be found. An example could Instagram comments, we don't want to see inappropriate languages so a system like this can be useful to remove comments with hateful speech/bad words.
+The internet has provided a platform for freedom of expression, but it also comes with risks such as hate speech, offensive language, and other types of inappropriate content. With this project, we seek to develop a solution that can mitigate these risks by automatically detecting and filtering out language deemed inappropriate or offensive.
 
 ## How is it used?
 
-For the sake of this project, it will be used in a bio-creator where users can tell people about themselves. The bot will detect inappropriate language and hateful speech. This doesn't necessarily need to have inappropriate words but could be hateful which it will detect.
+The bot will be integrated into a bio-creator tool, where users can create and share personal descriptions. Using AI methods, the bot will scan and analyze the input data for any inappropriate or hateful language. This will not only eliminate inappropriate words but also identify and flag any harmful language that may be disguised or implicit.
 
 ![Image](/badwords.png)
 
 ## Data sources and AI methods
 
-The data will be collected from the users, the input we receive from users will be used for the AI to detect if there is any sort of inappropriate language or hateful speech.
+The AI bot will be trained using data sourced from users. The collected data will be used to develop a language model that can understand the context and intent of the input text. The model will be implemented using state-of-the-art natural language processing (NLP) techniques to effectively identify inappropriate language and hate speech.
 
 ## Challenges
 
-The bot won't be able to detect inappropriate language or hateful speech in every language, the bot will also not be able to detect every sort of bad language.
+The bot will have some limitations, particularly in detecting inappropriate language and hate speech in languages it is not trained on. Additionally, while the model can detect most forms of inappropriate language, there may be some that it cannot identify.
 
 ## What next?
 
-This project could be very useful in the future for platforms and many places online to avoid and limit the amount of hateful language that is being used today. 
+This project has significant potential for use in various platforms, including social media, messaging, and chatbots. By limiting the spread of inappropriate language and hate speech, we can create safer online spaces and promote healthy communication. Future work could include improving the model's accuracy and incorporating it into other applications to maximize its impact.
