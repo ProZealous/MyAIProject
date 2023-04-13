@@ -2,24 +2,17 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Detecting inappropriate language with AI
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+The project is about a bot that can detect inappropriate language and responding with a warning. This can be used in chatbots to detect when a user is using an inappropriate language. Another example of when this can be used can be when inputing text into a specific scenario, such as a bio description of a profile.
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
+This project can solve inappropriate use of language on many platforms, for example on Social Medias where a younger audiences can be found. An example could Instagram comments, we don't want to see inappropriate languages so a system like this can be useful to remove comments with hateful speech/bad words.
 
 ## How is it used?
 
